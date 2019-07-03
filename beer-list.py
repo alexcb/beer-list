@@ -10,10 +10,9 @@ def has_class(item, class_name):
 try:
     text = open('pouring.html', 'rb').read().decode('utf8')
 except:
-    asdf
     r = requests.get('http://farmhousefest.com/2019/pouring/')
     text = r.text
-    open('pouring.html', 'w').write(text)
+    open('pouring.html', 'wb').write(text.encode('utf8'))
 
 beerwriter.writerow(('Brewery', 'Beer', 'ABV', 'Description'))
 
