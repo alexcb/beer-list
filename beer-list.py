@@ -15,6 +15,8 @@ except:
     text = r.text
     open('pouring.html', 'w').write(text)
 
+beerwriter.writerow(('Brewery', 'Beer', 'ABV', 'Description'))
+
 soup = BeautifulSoup(text, 'html.parser')
 beer_list = soup.find_all('ul', class_='beer-list')
 assert(len(beer_list) == 1)
