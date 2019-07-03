@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 beerwriter = csv.writer(sys.stdout)
 
 try:
-    text = open('pouring.html', 'r').read()
+    text = open('pouring.html', 'rb').read().decode('utf8')
 except:
     asdf
     r = requests.get('http://farmhousefest.com/2019/pouring/')
