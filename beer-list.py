@@ -4,6 +4,9 @@ import csv
 from bs4 import BeautifulSoup
 beerwriter = csv.writer(sys.stdout)
 
+def has_class(item, class_name):
+    return class_name in dict(item.attrs).get('class', [])
+
 try:
     text = open('pouring.html', 'rb').read().decode('utf8')
 except:
@@ -19,7 +22,10 @@ beer_list = beer_list[0]
 breweries = beer_list.find_all('li', recursive=False)
 for brewery in breweries:
     brewery_name = brewery.find('h3').get_text()
-    pouring = soup.find_all('ul', class_='pouring')
+    if has_class(brewery, 'importer'):
+        print(f'warning! skipping {brewery_name}!')
+        continue
+    pouring = brewery.find_all('ul', class_='pouring')[0].find_all('li')
     for beer in pouring:
         beer_name = beer.find('h4').get_text()
         try:
@@ -31,6 +37,3 @@ for brewery in breweries:
         except:
             beer_desc = ''
         beerwriter.writerow((brewery_name, beer_name, beer_abv, beer_desc))
-
-
-
