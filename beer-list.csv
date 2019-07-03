@@ -13,7 +13,10 @@ Atwood Ales,Vers l'Ouest,4.9%,"Fermented with a mixed culture of Saccharomyces a
 Atwood Ales,Autumn Rabbit,6.2%,"This amber-hued farmhouse ale features the sweetness of roasted carrots, hints of ginger and pepper, and an earthy, floral, dry finish. Brewed with 100% estate-grown carrots and hops."
 Atwood Ales,Concurrently #3,?,Barrel-aged black currant sour
 Atwood Ales,What is Hip?,?,Saison with rose hips
-warning! skipping Beerthirst!
+Beerthirst (imp),Aslan,?,
+Beerthirst (imp),Firestone Walker,?,
+Beerthirst (imp),Great Notion,?,
+Beerthirst (imp),Modern Times,?,
 Bellwoods Brewery,Come What May (dry-hopped),5.8%,"We set out to create a saison-like ale, but without the saison yeast, and achieved this through several fermentations (primary with neutral ale yeast, secondary in oak), selective brett inoculation, the use of rustic grains like spelt and rye, and ample time. De La Senne (Belgium) collaboration."
 Bellwoods Brewery,Motley Cru 2019,8.5%,"An ode to natural wines, this anniversary release utilizes Cab Franc grapes from Rosewood Estates Winery that were lightly pressed in the making of their rosÃ©, and several barrels of our spontaneous and wild ales. We fermented the eclectic blend on grape skins for 5 weeks, carefully aged it in oak for a year, before allowing it to condition naturally in the bottle."
 Bellwoods Brewery,White Picket Fence (peach),5.7%,"This 2018 Ontario peach WPF variant is the reason that we had to bring in extra employees this past summer, and the culprit for our staff-wide carpal tunnel epidemic (we were dumb enough to de-pit and crush 3000ish lbs of fruit by hand)."
@@ -49,7 +52,17 @@ Burdock,Froots,7.4%,"A blend of 1-2 year old Brett saisons aged in neutral wine 
 Burdock,Red Raspberry Ruby,7.7%,"A blend of 1–2 year old barrel aged saisons blended in stainless steel with generous heaps of red red red raspberries and ~20% pinot noir, bottle conditioned to taste."
 Brasserie Cantillon,Fou Foune,5%,"Blend of lambics aged 18 to 20 months and of Bergeron apricots, sourced from environmentally-friendly and sustainable agriculture. 300g of fruit blended with one litre of lambic, soaked for five weeks for the lambic to extract the fragrances and flavours of the fruit."
 Brasserie Cantillon,Gueuze,5%,"Gueuze is the ultimate result of a complex blend of lambics of different ages and with different tastes kept in oak barrels. The brewerâs main task involves tasting and he or she will have to try around a dozen lambics from different barrels, finally selecting five or six. It is by this method that gueuze 100% lambic, presenting the typical characteristics of Cantillon Breweryâs beers, is produced."
-warning! skipping Copper & Theory!
+Copper & Theory (imp),Atwood,?,
+Copper & Theory (imp),Blindman,?,
+Copper & Theory (imp),Burdock,?,
+Copper & Theory (imp),Cantillon,?,
+Copper & Theory (imp),E9,?,
+Copper & Theory (imp),Floodland,?,
+Copper & Theory (imp),Gigantic,?,
+Copper & Theory (imp),Holy Mountain,?,
+Copper & Theory (imp),Stillwell,?,
+Copper & Theory (imp),Tilquin,?,
+Copper & Theory (imp),Upright,?,
 Dageraad Brewing,Cultural Exchange,7.1%,"Dry-hopped, mixed-culture fermented farmhouse ale."
 Dageraad Brewing,Entropy 6,8%,Mixed-culture fermented barrel-aged Belgian-style blonde ale.
 Dageraad Brewing,Five,6.6%,"Dry-hopped saison, brewed with Cascade and Styrian Celeia, brewed for our 5th anniversary."
@@ -112,7 +125,7 @@ Jester King Brewery,Spon Muscat,6.4%,"A blend of 100% spontaneously fermented be
 BiÃ¨re Artisinale La SirÃ¨ne,Paradoxe,4.8%,"A lively and lifted beer that encompasses our in-house natural souring method combined with a lovely Farmhouse style ale and local Australian hop flowers. Born from an urge to create a highly drinkable pale-coloured sour ale that was refreshing and great with food matching. La SirÃ¨ne Paradoxe and hence it's name is referring to how this beer crosses over to almost tasting like a fresh white wine. Classic grape characters and juicy yet tangy green fruits dominate with a bracing acidity that delivers a dry, creamy and refreshing finish that very much deserves another!"
 BiÃ¨re Artisinale La SirÃ¨ne,Saison,6.5%,La SirÃ¨ne Saison is a beer that is special to our hearts and is a tribute to the style born in the Wallonia region of Southern Belgium where these Farmhouse styles were brewed to quench the thirst of field workers. Our classic award-winning Saison pours a deep golden orange with aromas of wild fruits. Complex rustic flavours of spice and a little funk (courtesy of our yeast) combine deliciously to finally deliver a dry crisp finish.
 BiÃ¨re Artisinale La SirÃ¨ne,Avant Garde Reserve Saison,7%,"A blend of our Classic Saison vintages aged in Burgundian Barriques and Hogsheads since 2015 and 2016. The Reserve Saison displays generous oak character and balance with ethereal yet rustic notes of the indigenous wild yeast residing within the walls of our brewery. The Reserve Saison is the ultimate expression of our site and House Style, imparting a sense of place, time and season to this wild ale."
-warning! skipping Liquid Art & Supply Co!
+Liquid Art & Supply Co (imp),The Wild Beer Co.,?,
 Luppolo Brewing Company,Albicocchina,7%,Barrel aged sour with apricots.
 Luppolo Brewing Company,Amarena,7%,Barrel aged sour with Montmorency cherries.
 Luppolo Brewing Company,Bacca Nera,7%,Mixed fermentation sour aged on gamay skins in wine barrels.
@@ -139,7 +152,7 @@ Powell Brewery,Vermouth Lager,6%,Lager aged in vermouth barrels with brettanomyc
 Powell Brewery,Black Lime Sour Farmhouse,?,description tba
 Powell Brewery,Hibiscus Sour Farmhouse,?,description tba
 Quebrada del Chucao,Brut Nature,7.5%,"Handcrafter cider made with apples from old orchards rooted for more than sixty years in the Araucania Region of Southern Chile, reviving the tradition of cider making. Fermented a 2nd time in the bottle."
-warning! skipping Rare Barrel Beverage Supply!
+Rare Barrel Beverage Supply (imp),Garden Path Fermentation,?,
 Shacksbury,Citrus Spritz,3.8%,"Dry, light, refreshing with a vibrant citrus nose. Egyptian rose & citrus tincture, grape skins. Apple varieties — McIntosh, Empire, Cortland, Red Delicious, and Macoun."
 Steel & Oak Brewing Co.,Secretariat 2018,5.9%,"Conditioned on guava and refermented with Brettanomyces, Secretariat has tropical fruit notes and finishes dry. It can enjoyed now or cellared for more Brett funk. Secretariat is refermented in the bottle."
 Steel & Oak Brewing Co.,LumÄna,?,"Generous additions of Nepalese Timut peppercorns and refreshing lemon make this bright and dry Saison burst with notes of tropical fruit, galangal and citrus rind. Equally at home on the dining or picnic table, LumÄna will shine no matter the occasion."
@@ -174,14 +187,25 @@ Twin Sails Brewing,Devilwood,6.7%,"Inspired by the cocktails of The Keefer Bar, 
 Twin Sails Brewing,El Cacto,7.9%,"Inspired by one of our favourite cocktails, the Margarita, this farmhouse style ale was fermented and aged in reposado tequila barrels for 8 months. We then rested it on a healthy dose of lime zest right before packaging to create a beer bursting with fresh citrus and floral notes balanced with a light acidity and tequila on the finish."
 Twin Sails Brewing,Pollen,5.8%,"Pollen is an oak aged farmhouse Ale finished on honey. We brewed this beer using malt from the Skagit valley and locally sourced honey, then aged it for 8 months in Okanagan wine barrels. An homage to the ingredients that surround us, this beer drinks light and dry, with the honey lending a beautiful floral nose and a touch of sweetness."
 Twin Sails Brewing,Vibes,5.6%,"Initially brewed into stainless, this beer was dry hopped with a large dose of Mosaic and Amarillo before being moved into oak. Wild yeast and bacteria were then added to encourage long term bio-transformaton of hop compounds giving it a complex, dry, yet tropical aroma and flavour profile."
-warning! skipping Txotx!
-warning! skipping Untapped!
+Txotx (imp),Bereziartua,?,
+Txotx (imp),Graft,?,
+Txotx (imp),Quebrada del Chucao,?,
+Txotx (imp),Shacksbury,?,
+Untapped (imp),Ale Apothecary,?,
+Untapped (imp),Bellwoods,?,
+Untapped (imp),Bench,?,
+Untapped (imp),Blackberry Farm,?,
+Untapped (imp),Blood Brothers,?,
+Untapped (imp),Dunham,?,
+Untapped (imp),Jester King,?,
+Untapped (imp),Oxbow,?,
 Upright Brewing,Fantasia 2018,6%,"Fantasia has been brewed annually since 2008 using peaches from Baird Family Orchards. Each vintage features a layered nose that leads into a deep profile on the palate, with complex acidity achieved through extended aging. 2018 is the eighth vintage for Fantasia, our first barrel fermented fruit beer. We opted for two different peach varieties harvested late into summer and full of flavor."
 Upright Brewing,Hearts Beats 2018,8%,Hearts' Beat is a bold fruit beer fermented entirely in oak casks full of fresh cherries. It bridges elements from the world of wine with its tannic structure and varietal depth showcasing Oregon's finest fruit.
 Upright Brewing,Pathways,8%,"Pathways Saison is a mixed fermentation beer blended from a lot of barrels varying in vintage from three to nine months. Multiple yeast and bacteria strains develop complex flavors and aromatics within a saison base featuring classic malt flavors alongside an attractive hop profile with herbal, grass, and soft lemon notes."
 Upright Brewing,Saison Ellende,5.2%,"Saison Ellende is an amaro inspired brew blended from nocino (walnut liqueur), fortified muscat, and pinot noir barrels."
 Upright Brewing,Two Tone Saison,5.2%,"Two Tone Saison is a blend of fresh beer with year old barrel aged saison, bringing together apricot with dank and fruity hops — Crystal, Cascade, and El Dorado. Dry, bright and flavorful with hop oils and light acidity across the palate, the Two Tone modifies a historic style to modern tastes."
-warning! skipping Westbier!
+Westbier (imp),Brekeriet,?,
+Westbier (imp),La Sirene,?,
 Wild Ambition,A Single Branch,5.7%,"A Single Branch started its life as a Flanders inspired sour red. The beer underwent primary fermentation with red wine yeast, brett, & lactobacillus before laying to rest for five months in red wine barrels. 200lbs of gorgeous, Balaton sour cherries from Jobst-Hof Orchards (just a bit up the highway from the brewery!) were then popped into one of our stainless tanks. We transferred the beer on top of the cherries for 6 more weeks of conditioning. Over that period, the sugars in the cherries fermented out & we picked up a ton of flavour & colour - including vinous character from the prolonged skin contact."
 Wild Ambition,Blending In,6%,"Our first biÃ¨re de coupage, this release was made with 40% mature oak-aged sour beer and 60% stainless steel fermented hoppy farmhouse ale. This blending ratio creates a beer that balances the bright, fresh, and moderately bitter hop character of the stainless portion with the tart, complex, and brett-forward flavours of the barrel aged sour portion. The blending, the barrel aging, and the fresh and modern dry hop with Amarillo, Citra, and Motueka make Blending In a prime example of what we do."
 Wild Ambition,Imaginal Phase,5%,"With a seasonally appropriate warm and rustic rye flavour, this is our ode to traditional belgian style farmhouse brewing. Based on a classic saison, our twist is that we dose the beer with brettanomyces yeast strains on bottling day. This beer then undergoes a metamorphosis with the new yeast protecting the existing hop flavours while it adds its own wild and rustic expression over time. We kettle-hopped generously with Styrian Goldings and lightly dry-hopped with a carefully selected blend of Czech Saaz, German Tettnanger, and New Zealand Motueka."

@@ -23,17 +23,21 @@ breweries = beer_list.find_all('li', recursive=False)
 for brewery in breweries:
     brewery_name = brewery.find('h3').get_text()
     if has_class(brewery, 'importer'):
-        print(f'warning! skipping {brewery_name}!')
-        continue
-    pouring = brewery.find_all('ul', class_='pouring')[0].find_all('li')
-    for beer in pouring:
-        beer_name = beer.find('h4').get_text()
-        try:
-            beer_abv = beer.find('p', class_='abv').get_text()
-        except:
-            beer_abv = '?'
-        try:
-            beer_desc = beer.find('p', class_='desc').get_text()
-        except:
-            beer_desc = ''
-        beerwriter.writerow((brewery_name, beer_name, beer_abv, beer_desc))
+        brewery_name += ' (imp)'
+        pouring = brewery.find('p')
+        for beer in pouring.find_all('a'):
+            beer_name = beer.get_text()
+            beerwriter.writerow((brewery_name, beer_name, '?', ''))
+    else:
+        pouring = brewery.find_all('ul', class_='pouring')[0].find_all('li')
+        for beer in pouring:
+            beer_name = beer.find('h4').get_text()
+            try:
+                beer_abv = beer.find('p', class_='abv').get_text()
+            except:
+                beer_abv = '?'
+            try:
+                beer_desc = beer.find('p', class_='desc').get_text()
+            except:
+                beer_desc = ''
+            beerwriter.writerow((brewery_name, beer_name, beer_abv, beer_desc))
